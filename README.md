@@ -2,9 +2,7 @@
 -------------------------
 
 
-After completing Topics 1-10, you should be all set to tackle the [Phase 1 Project!]($CANVAS_OBJECT_REFERENCE$/assignments/g0cb5a456607af875b612a7ad8abd6317 "Phase 1 Project")
-
-
+After completing Topics 1-10, you should be all set to tackle the Phase 1 Project! [[Assignment Link 🔗 ]()]
 
 
 
@@ -40,12 +38,11 @@ Project Requirements
 The project requirements are spelled out in both:
 
 
-1. the rubric attached to the [Phase 1 Project]($CANVAS_OBJECT_REFERENCE$/assignments/g0cb5a456607af875b612a7ad8abd6317 "Phase 1 Project")
+1. the rubric attached to the Phase 1 Project [[Assignment Link 🔗 ]()]
 2. the [Phase 1 Project Submission Checklist](https://docs.google.com/document/d/1ZFN9zle3-18Mtq2doEjMr3aUx2wCVySlQXzWuZiv_EY/edit)
 
 
 In brief, the major 3 deliverables include:
-
 
 * A jupyter notebook with your technical analysis
 * A 5-10 minute non-technical executive summary presentation
@@ -74,11 +71,11 @@ Submitting Your Project on Canvas
 
 * You will turn in your project materials on 2 Canvas assignments:
 	+ The GitHub Repo Link is uploaded here:
-		- [Phase 1 Project - GitHub Repository URL]($CANVAS_COURSE_REFERENCE$/modules/items/g90d922828171bfe0405beda96749f255 "Phase 1 Project - GitHub Repository URL")
+		- [Phase 1 Project - GitHub Repository URL🔗]("Phase 1 Project - GitHub Repository URL")
 	+ The PDF Exports of Your Notebook, Presentation, and README are uploaded here:
-		- [Phase 1 Project]($CANVAS_COURSE_REFERENCE$/modules/items/g86f11f3fa9dd94154a506afb86f79b0b "Phase 1 Project")
+		- [Phase 1 Project Assignment🔗]("Phase 1 Project")
 * For additional instructions on submitting your project pdfs on canvas see:
-	+ [Project Submission & Review (Online)]($CANVAS_COURSE_REFERENCE$/modules/items/g98771acbc1c5c31a5ba751d9ed27fb7b "Project Submission & Review (Online)")
+	+ [Project Submission & Review (Online)🔗]("Project Submission & Review (Online)")
 
 
 ### Scheduling Your Review
