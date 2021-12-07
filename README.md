@@ -1,67 +1,66 @@
-🎯Phase 1 Project Overview
--------------------------
+🎯Phase 1 Project Overview  
+-------------------------  
 
 
-After completing Topics 1-10, you should be all set to tackle the Phase 1 Project! [[Assignment Link 🔗 ]()]
-
-
-
+After completing Topics 1-10, you should be all set to tackle the Phase 1 Project! [[Assignment Link 🔗 ]()]  
 
 
 
-The Phase 1 Project is your first start-to-finish task where you have a lot of freedom in:
 
 
-* the data you use,
-* the questions you ask, and
-* the way you answer those questions.
+
+The Phase 1 Project is your first start-to-finish task where you have a lot of freedom in:  
 
 
-Overall the project should take 20-40 hours to complete. To stay on pace, you should aim to complete the project in the following # of weeks:
+* the data you use,  
+* the questions you ask, and  
+* the way you answer those questions.  
 
 
-* 20-week pace: 1 week
-* 40-week pace: 2 weeks
-* 60-week pace: 3-4 weeks
+Overall the project should take 20-40 hours to complete. To stay on pace, you should aim to complete the project in the following # of weeks:  
 
 
-Your assigned One-on-One lead can help you find out exactly how many days you should spend on your end-of-phase project using the Flex Cadence and Milestones Calendar - please ask if you need help planning your project time!
+* 20-week pace: 1 week  
+* 40-week pace: 2 weeks  
+* 60-week pace: 3-4 weeks  
 
 
-At the end of the project, you will have a live Project Review session ***with an instructor who is not your One-on-One Lead!*** Passing that review is how you progress to the next Phase, and you are required to pass all Phase Project Reviews in numerical order to complete the course.
+Your assigned One-on-One lead can help you find out exactly how many days you should spend on your end-of-phase project using the Flex Cadence and Milestones Calendar - please ask if you need help planning your project time!  
 
 
-Project Requirements
---------------------
+At the end of the project, you will have a live Project Review session ***with an instructor who is not your One-on-One Lead!*** Passing that review is how you progress to the next Phase, and you are required to pass all Phase Project Reviews in numerical order to complete the course.  
 
 
-The project requirements are spelled out in both:
+Project Requirements  
+--------------------  
 
 
-1. the rubric attached to the Phase 1 Project [[Assignment Link 🔗 ]()]
-2. the [Phase 1 Project Submission Checklist](https://docs.google.com/document/d/1ZFN9zle3-18Mtq2doEjMr3aUx2wCVySlQXzWuZiv_EY/edit)
+The project requirements are spelled out in both:  
 
 
-In brief, the major 3 deliverables include:
-
-* A jupyter notebook with your technical analysis
-* A 5-10 minute non-technical executive summary presentation
-* A GitHub repository that contains:
-	+ the .ipynb notebook file
-	+ the .pdf of your presentation
-	+ a README summarizing your results
+1. the rubric attached to the Phase 1 Project [[Assignment Link 🔗 ]()]  
+2. the [Phase 1 Project Submission Checklist](https://docs.google.com/document/d/1ZFN9zle3-18Mtq2doEjMr3aUx2wCVySlQXzWuZiv_EY/edit)  
 
 
-Getting Started:
-----------------
+In brief, the major 3 deliverables include:  
+
+* A jupyter notebook with your technical analysis  
+* A 5-10 minute non-technical executive summary presentation  
+* A GitHub repository that contains:  
+	+ the .ipynb notebook file  
+	+ the .pdf of your presentation  
+	+ a README summarizing your results  
 
 
-When you're ready to begin the project, you will need to complete the [***Project Proposal***](#assignment_link).
+Getting Started:  
+----------------  
 
-Once the Project Proposal has been graded by your instructor, we recommend you do three things:
 
+When you're ready to begin the project, you will need to complete the [***Project Proposal***](#assignment_link).  
 
-1. Message your One-on-One Lead on Slack and indicate you've begun the project.
+Once the Project Proposal has been graded by your instructor, we recommend you do three things:  
+
+1. Message your One-on-One Lead on Slack and indicate you've submitted the Project Proposal. Once the instructor grades the proposal, you will be granted access to the Project Submission Pages.
 2. Create your GitHub repository where you can save all of your work
 3. Schedule a Project Review session ***with an instructor other than your One-on-One Lead*** ([https://go.oncehub.com/ODSPhase1ProjectReviews)](https://go.oncehub.com/ODSPhase1ProjectReviews)
 	* Note: you are **allowed to continue to refine and update your project/repo up until 24 hours before your review,** at which point the submitted materials will be considered final.
