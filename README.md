@@ -58,7 +58,8 @@ Getting Started:
 
 When you're ready to begin the project, you will need to complete the [***Project Proposal***](#assignment_link).  
 
-Once the Project Proposal has been graded by your instructor, we recommend you do three things:  
+When you're ready to begin the project, we recommend you do three things:
+
 
 1. Message your One-on-One Lead on Slack and indicate you've submitted the Project Proposal. Once the instructor grades the proposal, you will be granted access to the Project Submission Pages.
 2. Create your GitHub repository where you can save all of your work
