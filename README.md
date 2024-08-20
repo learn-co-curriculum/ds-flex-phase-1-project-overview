@@ -2,7 +2,7 @@
 -------------------------  
 
 
-After completing Topics 1-10, you should be all set to tackle the Phase 1 Project! [[Assignment Link 🔗 ]()]  
+After completing Topics 1-10, you should be all set to tackle the Phase 1 Project!
 
 
 
@@ -28,7 +28,7 @@ Overall the project should take 20-40 hours to complete. To stay on pace, you sh
 Your assigned One-on-One lead can help you find out exactly how many days you should spend on your end-of-phase project using the Flex Cadence and Milestones Calendar - please ask if you need help planning your project time!  
 
 
-At the end of the project, you will have a live Project Review session ***with an instructor who is not your One-on-One Lead!*** Passing that review is how you progress to the next Phase, and you are required to pass all Phase Project Reviews in numerical order to complete the course.  
+At the end of the project, you will have a live Project Review session with an instructor. Passing that review is how you progress to the next Phase, and you are required to pass all Phase Project Reviews in numerical order to complete the course.  
 
 
 Project Requirements  
@@ -63,7 +63,7 @@ When you're ready to begin the project, we recommend you do three things:
 
 1. Message your One-on-One Lead on Slack and indicate you've submitted the Project Proposal. Once the instructor grades the proposal, you will be granted access to the Project Submission Pages.
 2. Create your GitHub repository where you can save all of your work
-3. Schedule a Project Review session ***with an instructor other than your One-on-One Lead*** ([https://go.oncehub.com/ODSPhase1ProjectReviews)](https://go.oncehub.com/ODSPhase1ProjectReviews)
+3. Schedule a Project Review session with an instructor. ([Phase 1 Project Review Booking Link)](https://calendly.com/flex_booking_mark/project_reviews)
 	* Note: you are **allowed to continue to refine and update your project/repo up until 24 hours before your review,** at which point the submitted materials will be considered final.
 
 
@@ -87,22 +87,17 @@ Submitting Your Project on Canvas
 ### Scheduling Your Review
 
 
-Schedule your review using the Phase 1 Project Booking Page ([https://go.oncehub.com/ODSPhase1ProjectReviews)](https://go.oncehub.com/ODSPhase1ProjectReviews)
+Schedule your review using the Phase 1 Project Booking Page ([Phase 1 Project Review Booking Link)](https://calendly.com/flex_booking_mark/project_reviews)
 
 
 
-1. First, confirm your auto-detected time zone and then select Continue
+1. First, confirm your auto-detected time zone looks correct. If not, use the dropdown to select your timezone.
    
 
-![Confirm your time zone.](https://raw.githubusercontent.com/learn-co-curriculum/ds-flex-phase-1-project-overview/main/images/scheduling-example-1.png)
-2. Then, on the calendar that appears, select a timeslot from the calendar
+2. Then, on the calendar that appears, select a day and then a time from the calendar that works for you to take the assessment.
    
 
-![Select a timeslot](https://raw.githubusercontent.com/learn-co-curriculum/ds-flex-phase-1-project-overview/main/images/scheduling-example-2.png)
-
-3. After selecting a time slot you should see a form requesting information about you and your project materials. **Please note the third line of the form, which indicates the Team Member that your appointment will be with. If the selected timeslot is with your assigned One-on-One Lead, then please select another timeslot.** 
-**![Project scheduling form - check the Team Member field](https://raw.githubusercontent.com/learn-co-curriculum/ds-flex-phase-1-project-overview/main/images/scheduling-example-3.png)**
-
+3. After selecting a time slot you should see a form requesting information about you and your project materials.
 
 
 Note: you are allowed to **continue to refine and update your project/repo up until 24 hours before your review**, at which point the submitted materials will be considered final. 
