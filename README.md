@@ -25,7 +25,7 @@ Overall the project should take 20-40 hours to complete. To stay on pace, you sh
 * 60-week pace: 3-4 weeks  
 
 
-Your assigned One-on-One lead can help you find out exactly how many days you should spend on your end-of-phase project using the Flex Cadence and Milestones Calendar - please ask if you need help planning your project time!  
+Your instructor can help you find out exactly how many days you should spend on your end-of-phase project using the Flex Cadence and Milestones Calendar - please ask if you need help planning your project time!  
 
 
 At the end of the project, you will have a live Project Review session with an instructor. Passing that review is how you progress to the next Phase, and you are required to pass all Phase Project Reviews in numerical order to complete the course.  
@@ -41,6 +41,7 @@ The project requirements are spelled out in both:
 1. the rubric attached to the Phase 1 Project [[Assignment Link 🔗 ]()]  
 2. the [Phase 1 Project Submission Checklist](https://docs.google.com/document/d/1ZFN9zle3-18Mtq2doEjMr3aUx2wCVySlQXzWuZiv_EY/edit)  
 
+There is a more concise Rubric/Checklist Spreadsheet that is a helpful project management template. You can find the spreadsheets for each phase on the [ds_flex_resources repo](https://github.com/mark-barbour/ds_flex_resources).
 
 In brief, the major 3 deliverables include:  
 
@@ -58,12 +59,13 @@ Getting Started:
 
 When you're ready to begin the project, you will need to complete the [***Project Proposal***](#assignment_link).  
 
-When you're ready to begin the project, we recommend you do three things:
+When you're ready to begin the project, we recommend you do 4 things:
 
 
-1. Message your One-on-One Lead on Slack and indicate you've submitted the Project Proposal. Once the instructor grades the proposal, you will be granted access to the Project Submission Pages.
-2. Create your GitHub repository where you can save all of your work
-3. Schedule a Project Review session with an instructor. ([Phase 1 Project Review Booking Link)](https://calendly.com/flex_booking_mark/project_reviews)
+1. Complete the Project Proposal in Canvas.
+2. Message your instructor on Discord and indicate you've submitted the Project Proposal. Once the instructor grades the proposal, you will be granted access to the Project Submission Pages.
+3. Create your GitHub repository where you can save all of your work.
+4. Schedule a Project Review session with an instructor. ([Phase 1 Project Review Booking Link)](https://calendly.com/flex_booking_mark/project_reviews)
 	* Note: you are **allowed to continue to refine and update your project/repo up until 24 hours before your review,** at which point the submitted materials will be considered final.
 
 
