@@ -2,7 +2,7 @@
 -------------------------  
 
 
-After completing Topics 1-10, you should be all set to tackle the Phase 1 Project!
+After completing Topics 1-10, you should be all set to tackle the [Phase 1 Project](https://github.com/learn-co-curriculum/dsc-phase-1-project-v3)!
 
 
 
