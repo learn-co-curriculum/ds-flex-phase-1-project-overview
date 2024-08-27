@@ -65,7 +65,7 @@ When you're ready to begin the project, we recommend you do 4 things:
 1. Complete the Project Proposal in Canvas.
 2. Message your instructor on Discord and indicate you've submitted the Project Proposal. Once the instructor grades the proposal, you will be granted access to the Project Submission Pages.
 3. Create your GitHub repository where you can save all of your work.
-4. Schedule a Project Review session with an instructor. ([Phase 1 Project Review Booking Link)](https://calendly.com/flex_booking_mark/project_reviews)
+4. Schedule a Project Review session with an instructor. ([Phase 1 Project Review Booking Link)](https://calendly.com/flex_booking_mark/project_reviews))
 	* Note: you are **allowed to continue to refine and update your project/repo up until 24 hours before your review,** at which point the submitted materials will be considered final.
 
 
