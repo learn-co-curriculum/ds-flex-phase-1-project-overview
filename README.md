@@ -78,7 +78,7 @@ Submitting Your Project on Canvas
 
 * Upload the 3 PDFs for each of your deliverables (Notebook.pdf, Slides.pdf, README.pdf) to Canvas and click Submit.
 
-![image showing canvas page with the submission box where student can click a ](./images/canvas-submission-2.png)
+![image showing canvas page with the submission box where student can click Choose File, Add Another File, Cancel, and Submit Assignment buttons](./images/canvas-submission-2.png)
 
 
 * After doing so, please complete the [End of Phase survey](https://learn.co/redirect/student-nps-survey?Discipline=Data%20Science) and message your instructor in Discord immediately. 
